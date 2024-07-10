@@ -5,3 +5,4 @@ rich==13.3.3
 netmiko==4.2.0
 emoji==2.2.0
 
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
